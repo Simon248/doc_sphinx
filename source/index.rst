@@ -3,33 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to sphinx_tutorial's documentation!
+Sphinx 
 ===========================================
 
 ..    include:: <isonum.txt>
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   install
-
-
-.. toctree::
    :maxdepth: 3
    :caption: Contents:
 
-   install
-   init_doc
+   1_install
+   2_setup_project
    syntaxe
    sources
    Status
 
-   partie1/index
-   partie2/index
-.. Indices and tables
-.. ==================
-
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`

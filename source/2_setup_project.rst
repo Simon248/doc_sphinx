@@ -1,6 +1,8 @@
 =================
-INIT doc
+setup project
 =================
+
+
 
 ``sphinx-quickstart``
 

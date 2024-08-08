@@ -126,6 +126,22 @@ Les notes
 
 save a table as csv file and use the path to make your table in rst
 
+Les petite mise en valeur
+=============================
+
+
+`:kbd:`
+
+:kbd:`Ctrl` + :kbd:`C`
+
+`:guilabel:`
+
+Cliquez sur :guilabel:`File` puis :guilabel:`Open`.
+
+`:file:`
+Ouvrez le fichier :file:`/path/to/file`.
+
+
 Les tableaux
 =================
 

@@ -14,7 +14,8 @@ Sphinx
 
    1_install
    2_setup_project
-   syntaxe
+   3_syntaxe
+   4_docstring
    sources
    Status
 

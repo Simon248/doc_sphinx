@@ -6,6 +6,12 @@
 Sphinx 
 ===========================================
 
+
+read this:
+
+https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html
+
+
 ..    include:: <isonum.txt>
 
 .. toctree::
